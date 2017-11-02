@@ -4,8 +4,8 @@
     <StructureAddress>113C330</StructureAddress>
     <ZoomCurrent>108</ZoomCurrent>
     <ZoomMax>100</ZoomMax>
-    <FovCurrent>104</FovCurrent>
-    <FovMax>10C</FovMax>
+    <FovCurrent>114</FovCurrent>
+    <FovMax>11C</FovMax>
   </DX9>
   <DX11>
     <StructureAddress>1801830</StructureAddress>
